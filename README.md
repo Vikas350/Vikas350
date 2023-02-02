@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Dynamic Programming, React JS**
 
-- 👨‍💻 All of my projects are available at [https://vikas350.github.io/DummyTextGenerator/](https://vikas350.github.io/DummyTextGenerator/)
+- 👨‍💻 All of my projects are available at [very soon...](...)
 
 - 💬 Ask me about **DSA, Frontend, OOPs**
 
