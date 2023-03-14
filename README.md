@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Dynamic Programming, React JS**
 
-- 👨‍💻 All of my projects are available at [very soon...](...)
+- 👨‍💻 All of my projects are available at [Portfolio](https://vikas-kushwaha.netlify.app/)
 
 - 💬 Ask me about **DSA, Frontend, OOPs**
 
