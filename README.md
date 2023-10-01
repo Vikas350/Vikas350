@@ -36,8 +36,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+[![An image of @vikas350's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vikas350)](https://holopin.io/@vikas350)
 
 ###
