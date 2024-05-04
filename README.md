@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://vikas-kushwaha.netlify.app/)
 
-- 💬 Ask me about **DSA, Frontend, OOPs**
+- 💬 Ask me about **DSA, MERN, OOPs**
 
 - 📫 How to reach me **vikaskushwaha1263515@gmail.com**
 
