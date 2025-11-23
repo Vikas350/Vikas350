@@ -30,11 +30,12 @@
 
 [![My Skills](https://skillicons.dev/icons?i=react,redux,materialui,nodejs,express,nestjs,mongodb,vercel,vue,vuetify,tailwind,html,css,js,ts,mysql,cpp,c,python,flask,git,firebase,linux,aws,gcp,postgresql,graphql,docker)](https://skillicons.dev)
 
+<div >
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikas350&show_icons=true&locale=en&layout=compact" alt="vikas350" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikas350&show_icons=true&locale=en" alt="vikas350" /></p>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikas350&" alt="vikas350" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikas350&" alt="vikas350" width="100%"/></p>
 
 
 ###
